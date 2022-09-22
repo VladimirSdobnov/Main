@@ -1,0 +1,3 @@
+﻿  Otrezok.c
+C:\Users\itmm-2213-a\source\repos\laba-1\Otrezok\Otrezok.c(20,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Otrezok.vcxproj -> C:\Users\itmm-2213-a\source\repos\laba-1\x64\Debug\Otrezok.exe

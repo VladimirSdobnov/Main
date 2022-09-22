@@ -1,0 +1,3 @@
+﻿  SpaceOfTraingle.c
+C:\Users\itmm-2213-a\source\repos\laba-1\spaceOfTraingle\SpaceOfTraingle.c(11,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  spaceOfTraingle.vcxproj -> C:\Users\itmm-2213-a\source\repos\laba-1\x64\Debug\spaceOfTraingle.exe
