@@ -1,4 +1,0 @@
-﻿  PsevdoCode.c
-C:\Users\itmm-2213-a\source\repos\laba-1\PsevdoCode\PsevdoCode.c(51,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
-C:\Users\itmm-2213-a\source\repos\laba-1\PsevdoCode\PsevdoCode.c(54,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
-  PsevdoCode.vcxproj -> C:\Users\itmm-2213-a\source\repos\laba-1\x64\Debug\PsevdoCode.exe

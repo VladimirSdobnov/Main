@@ -1,3 +1,0 @@
-﻿  dateTime.c
-C:\Users\itmm-2213-a\source\repos\laba-1\DateTime\dateTime.c(10,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
-  DateTime.vcxproj -> C:\Users\itmm-2213-a\source\repos\laba-1\x64\Debug\DateTime.exe
